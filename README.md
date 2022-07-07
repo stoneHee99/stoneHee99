@@ -37,8 +37,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiit7)](https://solved.ac/kiit7)
 
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FstoneHee99%2Fhit-counter&count_bg=%2330B980&title_bg=%23555555&icon=&icon_color=%23191D1B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer)
