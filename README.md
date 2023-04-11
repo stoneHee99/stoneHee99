@@ -12,7 +12,7 @@
 
 <h3 align = center> 🍀 About Me 🍀 </h3>
 <p align = center>
-<a href="https://blog.naver.com/kiit7"><img src="https://img.shields.io/badge/blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
+<a href="https://blog.naver.com/kiit7"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp
 <a href="https://www.instagram.com/stone__ed/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/kiit7-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/kiit0901@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
