@@ -4,7 +4,7 @@
 <h3 align = center> My Tech Stack 🔍 </h3>
 <p align = center> Techs I've study </p>
 <p align = center> 🔨  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JAVA-0D597F?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp
    🔨</p>
 
