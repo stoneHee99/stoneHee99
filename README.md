@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=SeokheePark&fontSize=90)
-
-
-
 <h3 align = center> 🍀 About Me 🍀 </h3>
 <p align = center>
 <a href="https://stonehee99.tistory.com/"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp
@@ -17,4 +13,49 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FstoneHee99%2Fhit-counter&count_bg=%2330B980&title_bg=%23555555&icon=&icon_color=%23191D1B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=footer)
+### 📚 Blog
+<table><tbody><tr>
+<td>
+    <a href="https://stonehee99.tistory.com//41">
+        <img width="100%" src="/img/5308672510483287656.png"/><br/>
+        <div>[부트캠프 QA편] 더 탄탄한 소프트웨어를 만들기 위한 테스트 방법 </div>
+    </a>
+    <div>한빛미디어 활동을 위해서 책을 제공받아 작성된 서평입니다 안녕하세요! 오늘은 이라는 책을 리뷰해보겠습니다! 이 ...</div>
+    <div>24.07.28</div>
+</td>
+<td>
+    <a href="https://stonehee99.tistory.com//40">
+        <img width="100%" src="/img/9097785275253476925.png"/><br/>
+        <div>코틀린과 JPA 같이 쓰지 말자 </div>
+    </a>
+    <div>안녕하세요! 최근 지인들과 코틀린 스터디를 시작하게 되어서 코틀린에 대해서 학습을 해보고 있었습니다. 아직 깊이...</div>
+    <div>24.07.25</div>
+</td>
+<td>
+    <a href="https://stonehee99.tistory.com//39">
+        <img width="100%" src="/img/7640056492860786999.png"/><br/>
+        <div>AWS EC2 정복하기 </div>
+    </a>
+    <div>안녕하세요! 지난 번 글에서 IAM으로 계정을 관리해보았으니 이번에는 직접 인스턴스를 생성하고 공부해보도록 하겠습...</div>
+    <div>24.06.18</div>
+</td>
+</tr>
+<tr>
+<td>
+    <a href="https://stonehee99.tistory.com//38">
+        <img width="100%" src="/img/8814778284738268774.png"/><br/>
+        <div>AWS IAM으로 안전하게 협업하기 </div>
+    </a>
+    <div>안녕하세요! 프로젝트를 진행하다보면 보통 AWS를 활용하기 마련인데요.AWS를 잘 모르고 사용했을 때는 AWS 계정 주인...</div>
+    <div>24.06.18</div>
+</td>
+<td>
+    <a href="https://stonehee99.tistory.com//37">
+        <img width="100%" src="/img/5242048241465936767.png"/><br/>
+        <div>ServiceImpl 쓰지 말까? </div>
+    </a>
+    <div>안녕하세요! 오늘 글을 쓰게된 계기는 하나의 유튜브 영상을 보고나서입니다! 아래는 그 영상입니다!! (두둥)ServiceI...</div>
+    <div>24.06.14</div>
+</td>
+</tr>
+</tbody></table>
