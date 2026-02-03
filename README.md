@@ -8,7 +8,9 @@
 
 <div align = center>
 
-[![StoneHee's Public GitHub stats](https://github-readme-stats.vercel.app/api?username=stoneHee99)](https://github.com/anuraghazra/github-readme-stats)
+## Open Source Contributions
+
+![My Contributions](./contributions.svg)
 
 </div>
 
