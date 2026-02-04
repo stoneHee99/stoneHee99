@@ -8,8 +8,6 @@
 
 <div align = center>
 
-## Open Source Contributions
-
 ![My Contributions](./contributions.svg)
 
 </div>
