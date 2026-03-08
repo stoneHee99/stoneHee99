@@ -17,8 +17,16 @@
 ### 📚 Blog
 <table><tbody><tr>
 <td>
+    <a href="https://stonehee99.tistory.com/47">
+        <img width="100%" src="/img/2078394045393585017.png"/><br/>
+        <div>자바 메모리 구조: 힙만으로는 부족한 JVM 런타임 데이터 영역 이해하기 </div>
+    </a>
+    <div>💡 이 글을 읽으면 알 수 있는 것OOM이나 StackOverflowE rror가 발생했을 때, 힙 외에 어떤 영역을 확인해야 하는지 ...</div>
+    <div>26.03.09</div>
+</td>
+<td>
     <a href="https://stonehee99.tistory.com/46">
-        <img width="100%" src="/img/5290962295673288634.png"/><br/>
+        <img width="100%" src="/img/2187339565174677440.png"/><br/>
         <div>ATDD로 바이브코딩 품질 끌어올리기 </div>
     </a>
     <div>여러분은 바이브 코딩 즐겨 하시나요?바이브코딩은 빠르고 편리하지만, 반복적으로 같은 문제에 부딪히곤 해요.의도와...</div>
@@ -26,25 +34,25 @@
 </td>
 <td>
     <a href="https://stonehee99.tistory.com/45">
-        <img width="100%" src="/img/502043783376837680.png"/><br/>
+        <img width="100%" src="/img/8829434742780216871.png"/><br/>
         <div>DFS와 BFS를 언제 써야 할까 - 그래프 탐색을 이해하는 사고의 흐름 </div>
     </a>
     <div>이 문서는 그래프 탐색의 대표적인 방법인 DFS와 BFS를 단순히 어떻게 사용하는지가 아니라, 왜 이런 방식으로 동작하...</div>
     <div>26.01.06</div>
 </td>
+</tr>
+<tr>
 <td>
     <a href="https://stonehee99.tistory.com/44">
-        <img width="100%" src="/img/2995339679802075847.png"/><br/>
+        <img width="100%" src="/img/8048465181535623002.png"/><br/>
         <div>Spring Boot에서 PostgreSQL Master–Slave Replication 적용하기 </div>
     </a>
     <div>오늘은 Replication이 구성된 PostgreSQL 환경에서 Spring Boot가 Master(Write) 와 Slave(Read) 를 자동으로 구분해 ...</div>
     <div>25.11.27</div>
 </td>
-</tr>
-<tr>
 <td>
     <a href="https://stonehee99.tistory.com/43">
-        <img width="100%" src="/img/172366778901544024.png"/><br/>
+        <img width="100%" src="/img/3662668659841030160.png"/><br/>
         <div>[요즘 개발자를 위한 시스템 설계 수업] 실무·면접을 모두 잡는 균형 잡힌 입문서 </div>
     </a>
     <div>시스템 설계를 깊이 있게 공부해 보려는 개발자의 입장에서 이 책을 읽고 느낀 점을 정리해보았습니다!책이 어떻게 구...</div>
@@ -52,19 +60,11 @@
 </td>
 <td>
     <a href="https://stonehee99.tistory.com/42">
-        <img width="100%" src="/img/8639159429838281283.png"/><br/>
-        <div>[MySQL] 문자열 데이터를 저장하는 방법 </div>
+        <img width="100%" src="/img/8223871283641098361.png"/><br/>
+        <div>[MySQL] CHAR, VARCHAR, TEXT: 내 서비스에 딱 맞는 문자열 데이터 타입 선택하기 </div>
     </a>
-    <div>개발을 하다 보면 가장 많이 다루게 되는 데이터는 역시 문자열 데이터입니다.백엔드 개발자로서 저는 평소 "문자열 ...</div>
+    <div>개발하며 가장 많이 다루는 데이터는 단연 문자열이죠.백엔드 개발자라면 '이 문자열 데이터를 어떻게 효율적으로 저...</div>
     <div>25.03.24</div>
-</td>
-<td>
-    <a href="https://stonehee99.tistory.com/41">
-        <img width="100%" src="/img/472390828623516433.png"/><br/>
-        <div>[부트캠프 QA편] 더 탄탄한 소프트웨어를 만들기 위한 테스트 방법 </div>
-    </a>
-    <div>한빛미디어 활동을 위해서 책을 제공받아 작성된 서평입니다 안녕하세요! 오늘은 이라는 책을 리뷰해보겠습니다! 이 ...</div>
-    <div>24.07.28</div>
 </td>
 </tr>
 </tbody></table>
